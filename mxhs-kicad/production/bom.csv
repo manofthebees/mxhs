@@ -1,0 +1,4 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+D1,Diode_SOD-123,1,D,
+"J1, J2, J3, J4",TestPoint_Pad_1.5x1.5mm,4,Conn_01x01,
+S1,MX_Hotswap_1.00u,1,Keyswitch,
