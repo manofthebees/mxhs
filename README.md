@@ -1,5 +1,9 @@
 # mxhs
 simple hotswap single switch pcb for handwired keyboards
 
-![PCB back](images/pcbF.png)
-![PCB front](images/pcbB.png)
+## picture
+![pcb](images/pcb.png)
+
+## BOM
+- mx hotswap sockets
+- SOD 123 1n4148 diodes
