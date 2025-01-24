@@ -52,9 +52,7 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [
-        "hole_clearance|110895000|60420000|fd1f93fa-6d8d-4ec9-bb7e-3c8eb1413a1d|bc459a44-8853-425e-b844-c5f9d278fb02"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
